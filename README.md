@@ -3,29 +3,38 @@ A curated list of awesome things for iontraps
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--ts-->
+* [awesome-iontraps](#awesome-iontraps)
+   * [Contributing](#contributing)
+   * [Control Electronics](#control-electronics)
+   * [Ion pumps](#ion-pumps)
+   * [Atom Sources](#atom-sources)
+   * [Hardware](#hardware)
+   * [Viewports](#viewports)
+   * [Acusto-optic Modulators](#acusto-optic-modulators)
+   * [Cavity Coatings](#cavity-coatings)
+   * [Superpolished Mirrors](#superpolished-mirrors)
+   * [Software](#software)
+   * [Other Awesome Lists](#other-awesome-lists)
+
+<!-- Added by: runner, at: Tue Nov 16 20:59:32 UTC 2021 -->
+
+<!--te-->
+
 ## Contributing
 
-Use the [issues](https://github.com/iontraps/awesome-iontraps/issues) to discuss generally awesome (or aweful) things for iontraps. If you would like to add a link to this readme, please open a pull request.
+If you have a question about iontraps, feel free to open a new [discussion](https://github.com/iontraps/awesome-iontraps/discussions). 
 
-## Contents
+If you would like to add a link, please open a [pull request](https://github.com/iontraps/awesome-iontraps/pulls). 
 
-[awesome-iontraps](https://github.com/iontraps/awesome-iontraps)
-* [Control Electronics](https://github.com/iontraps/awesome-iontraps#control-electronics)
-* [Ion pumps](https://github.com/iontraps/awesome-iontraps#ion-pumps)
-* [Atom Sources](https://github.com/iontraps/awesome-iontraps#atom-sources)
-* [Hardware](https://github.com/iontraps/awesome-iontraps#hardware)
-* [Viewports](https://github.com/iontraps/awesome-iontraps#viewports)
-* [Acusto-optic Modulators](https://github.com/iontraps/awesome-iontraps#acusto-optic-modulators)
-* [Cavity Coatings](https://github.com/iontraps/awesome-iontraps#cavity-coatings)
-* [Superpolished Mirrors](https://github.com/iontraps/awesome-iontraps#superpolished-mirrors)
-* [Software](https://github.com/iontraps/awesome-iontraps#software)
-* [Other Awesome Lists](https://github.com/iontraps/awesome-iontraps#other-awesome-lists)
+Join us on Slack with this invitation link: https://iontraps.github.io/slack.
 
 ## Control Electronics
 
 _Control electronics and hardware for iontraps_
 
 * [Sinara](https://sinara-hw.github.io/) - An open-source hardware ecosystem for quantum physics experiments
+* [Stahl-Electronics](https://www.stahl-electronics.com/) - various electronics for ion traps and cryo
 
 ## Ion pumps
 
@@ -42,6 +51,7 @@ _Ovens for iontraps_
 * [Ideal Vacuum](https://www.idealvac.com/) - vacuum components
 * [LewVac](https://www.lewvac.co.uk/) - vacuum components
 * [VACOM](http://www.vacom-shop.de/epages/VacomShop.sf/en_GB/?utm_source=homepage&utm_medium=headnavilink&utm_campaign=shop) - vacuum components
+* [Exair](https://www.exair.com/products/static-eliminators.html) air static eliminators
 
 ## Viewports
 
@@ -87,3 +97,5 @@ _Numerical simulations of QIP and trapped ion physics_
 _More collections of awesome things for iontraps_
 
 * [Doyle Group Vendor List](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List) - The open wiki of the Doyle group
+* [List of Open Quantum Projects](https://qosf.org/project_list/)
+* [Open Quantum Hardware Projects](https://github.com/nathanshammah/open-quantum-hardware)
